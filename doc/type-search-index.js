@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ejercicio_2_javadocs","l":"CarrilBiciManager"}];updateSearchResults();
